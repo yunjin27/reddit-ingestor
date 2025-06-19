@@ -11,7 +11,7 @@ venv/
 env/
 ENV/
 .venv/
-.ENV/
+.env.sample/
 
 # Distribution / packaging
 build/
